@@ -28,13 +28,20 @@
 
 1. **Clone repo**:
    ```bash
-   git clone https://github.com/jobayerhossain-ai/annochat.git
+   git clone https://github.com/jobayer-hossain-dev/annochat.git
    cd annochat
    ```
 2. **Launch Application**:
    Open `index.html` in any web browser or serve with Live Server.
 
 ---
+
+## Links
+
+- [Source code](https://github.com/jobayer-hossain-dev/annochat)
+- [Developer portfolio](https://jobayerportfolio.vercel.app)
+
+A standalone public deployment URL is not currently documented for this repository.
 
 ## 📄 License
 
